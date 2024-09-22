@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fbhumika-1127&psig=AOvVaw31R8K3yxP-SPlwPDglolvO&ust=1727107086104000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiQ87T11ogDFQAAAAAdAAAAABAE)]
+
 <h1 align="center">Hi 👋, I'm Anshita Sharma</h1>
 <h3 align="center">A passionate software developer</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 
 - 🌱 I’m currently learning **NodeJs**
